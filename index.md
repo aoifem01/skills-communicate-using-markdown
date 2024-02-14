@@ -13,3 +13,8 @@
 ``` r
 read.csv("one good doggo?.csv", header=TRUE)
 ```
+
+- [ ] he's making a list
+- [ ] checking it twice
+- [ ] petting that dog
+- [ ] and eating mince pice (see: "pies" but it rhymes with "twice")
